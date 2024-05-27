@@ -1,0 +1,1925 @@
+1716194684.26 doublespend carrier 5
+1716194685.54 DoS start target:peer1.org5.plt.net:7551
+1716194689.58 DoS end
+1716194692.27 doublespend carrier 5
+1716194693.49 doublespend carrier 3
+1716194697.51 doublespend carrier 3
+1716194701.47 doublespend carrier 1
+1716194704.32 DoS start target:orderer3.concil.plt.net:7057
+1716194706.37 DoS end
+1716194707.01 DoS start target:orderer4.concil.plt.net:7060
+1716194710.06 DoS end
+1716194713.38 doublespend carrier 3
+1716194714.44 doublespend carrier 3
+1716194717.19 doublespend carrier 3
+1716194718.18 DoS start target:orderer2.concil.plt.net:7054
+1716194720.25 DoS end
+1716194722.55 doublespend carrier 5
+1716194723.35 DoS start target:peer1.org3.plt.net:7351
+1716194728.41 DoS end
+1716194728.64 doublespend carrier 5
+1716194729.43 doublespend carrier 1
+1716194730.26 doublespend carrier 4
+1716194733.57 doublespend carrier 3
+1716194734.44 doublespend carrier 1
+1716194735.34 doublespend carrier 2
+1716194736.58 doublespend carrier 5
+1716194737.61 doublespend carrier 5
+1716194738.29 doublespend carrier 1
+1716194741.60 doublespend carrier 3
+1716194746.63 doublespend carrier 2
+1716194747.51 doublespend carrier 1
+1716194751.45 doublespend carrier 2
+1716194753.62 doublespend carrier 2
+1716194754.50 doublespend carrier 1
+1716194758.42 doublespend carrier 3
+1716194761.44 doublespend carrier 5
+1716194768.31 doublespend carrier 5
+1716194774.28 doublespend carrier 3
+1716194775.56 doublespend carrier 5
+1716194776.49 doublespend carrier 1
+1716194777.55 doublespend carrier 5
+1716194778.39 doublespend carrier 4
+1716194779.36 doublespend carrier 5
+1716194781.23 doublespend carrier 5
+1716194782.41 doublespend carrier 5
+1716194783.53 doublespend carrier 3
+1716194784.51 doublespend carrier 3
+1716194785.67 doublespend carrier 4
+1716194787.29 doublespend carrier 2
+1716194789.34 doublespend carrier 3
+1716194794.18 doublespend carrier 2
+1716194795.43 doublespend carrier 5
+1716194799.23 doublespend carrier 3
+1716194800.41 doublespend carrier 4
+1716194801.42 doublespend carrier 4
+1716194803.20 doublespend carrier 1
+1716194806.52 doublespend carrier 1
+1716194812.39 DoS start target:peer1.org2.plt.net:7251
+1716194814.43 DoS end
+1716194815.55 doublespend carrier 5
+1716194816.47 DoS start target:peer1.org1.plt.net:7151
+1716194820.52 DoS end
+1716194822.45 DoS start target:orderer1.concil.plt.net:7051
+1716194826.49 DoS end
+1716194828.39 doublespend carrier 1
+1716194830.65 DoS start target:peer1.org1.plt.net:7151
+1716194835.70 DoS end
+1716194837.00 doublespend carrier 5
+1716194837.48 doublespend carrier 2
+1716194841.54 doublespend carrier 2
+1716194844.54 doublespend carrier 2
+1716194845.64 doublespend carrier 1
+1716194850.41 DoS start target:orderer4.concil.plt.net:7060
+1716194854.46 DoS end
+1716194854.90 DoS start target:peer1.org2.plt.net:7251
+1716194857.96 DoS end
+1716194858.36 doublespend carrier 1
+1716194860.27 doublespend carrier 2
+1716194863.45 doublespend carrier 1
+1716194866.53 doublespend carrier 5
+1716194867.31 doublespend carrier 1
+1716194869.21 DoS start target:peer1.org4.plt.net:7451
+1716194874.27 DoS end
+1716194875.67 doublespend carrier 4
+1716194876.27 doublespend carrier 5
+1716194878.61 DoS start target:peer1.org1.plt.net:7151
+1716194881.65 DoS end
+1716194885.60 doublespend carrier 3
+1716194887.56 doublespend carrier 5
+1716194889.59 doublespend carrier 1
+1716194893.42 doublespend carrier 3
+1716194894.57 doublespend carrier 3
+1716194899.29 doublespend carrier 1
+1716194903.58 doublespend carrier 5
+1716194904.31 doublespend carrier 2
+1716194906.20 doublespend carrier 3
+1716194909.59 doublespend carrier 5
+1716194910.64 doublespend carrier 5
+1716194918.59 doublespend carrier 5
+1716194919.67 doublespend carrier 3
+1716194921.57 doublespend carrier 5
+1716194922.24 doublespend carrier 5
+1716194923.52 doublespend carrier 4
+1716194925.40 doublespend carrier 4
+1716194926.37 DoS start target:orderer2.concil.plt.net:7054
+1716194929.42 DoS end
+1716194929.98 doublespend carrier 1
+1716194930.71 doublespend carrier 4
+1716194931.27 doublespend carrier 1
+1716194933.63 doublespend carrier 2
+1716194934.67 doublespend carrier 1
+1716194936.19 doublespend carrier 5
+1716194941.50 doublespend carrier 4
+1716194942.65 doublespend carrier 4
+1716194944.18 doublespend carrier 1
+1716194945.45 doublespend carrier 1
+1716194947.47 doublespend carrier 5
+1716194948.62 doublespend carrier 2
+1716194949.53 doublespend carrier 3
+1716194952.66 DoS start target:peer1.org5.plt.net:7551
+1716194956.70 DoS end
+1716194957.28 DoS start target:orderer5.concil.plt.net:7063
+1716194960.33 DoS end
+1716194960.63 doublespend carrier 2
+1716194961.23 doublespend carrier 4
+1716194962.29 doublespend carrier 5
+1716194963.59 doublespend carrier 4
+1716194965.17 doublespend carrier 5
+1716194968.43 doublespend carrier 2
+1716194969.43 doublespend carrier 2
+1716194971.40 doublespend carrier 3
+1716194972.52 doublespend carrier 4
+1716194975.42 doublespend carrier 1
+1716194976.27 DoS start target:peer1.org5.plt.net:7551
+1716194980.33 DoS end
+1716194982.20 doublespend carrier 2
+1716194983.57 doublespend carrier 3
+1716194987.66 doublespend carrier 4
+1716194991.46 doublespend carrier 4
+1716194992.23 doublespend carrier 5
+1716194993.23 doublespend carrier 3
+1716194994.22 doublespend carrier 2
+1716194995.30 doublespend carrier 4
+1716194996.20 DoS start target:orderer3.concil.plt.net:7057
+1716194998.25 DoS end
+1716194999.41 doublespend carrier 3
+1716195000.42 doublespend carrier 2
+1716195002.30 doublespend carrier 5
+1716195007.18 doublespend carrier 5
+1716195010.33 doublespend carrier 1
+1716195011.56 DoS start target:orderer2.concil.plt.net:7054
+1716195016.61 DoS end
+1716195017.11 doublespend carrier 3
+1716195018.39 DoS start target:orderer5.concil.plt.net:7063
+1716195023.44 DoS end
+1716195026.21 doublespend carrier 2
+1716195028.23 doublespend carrier 3
+1716195030.27 doublespend carrier 3
+1716195033.44 DoS start target:orderer3.concil.plt.net:7057
+1716195036.48 DoS end
+1716195036.80 doublespend carrier 1
+1716195037.51 doublespend carrier 5
+1716195038.23 doublespend carrier 2
+1716195040.31 doublespend carrier 1
+1716195041.41 doublespend carrier 4
+1716195042.47 doublespend carrier 2
+1716195043.65 doublespend carrier 4
+1716195045.63 doublespend carrier 4
+1716195047.27 DoS start target:peer1.org2.plt.net:7251
+1716195052.33 DoS end
+1716195052.65 doublespend carrier 5
+1716195053.56 doublespend carrier 5
+1716195054.28 doublespend carrier 4
+1716195055.41 doublespend carrier 3
+1716195057.64 doublespend carrier 1
+1716195058.64 doublespend carrier 3
+1716195059.59 doublespend carrier 3
+1716195060.35 doublespend carrier 1
+1716195062.55 doublespend carrier 1
+1716195064.38 doublespend carrier 2
+1716195070.20 DoS start target:orderer2.concil.plt.net:7054
+1716195074.27 DoS end
+1716195076.46 doublespend carrier 5
+1716195078.49 doublespend carrier 2
+1716195079.53 doublespend carrier 2
+1716195083.28 doublespend carrier 5
+1716195086.29 doublespend carrier 2
+1716195087.67 doublespend carrier 3
+1716195089.34 doublespend carrier 3
+1716195090.38 doublespend carrier 1
+1716195092.38 doublespend carrier 3
+1716195095.34 DoS start target:peer1.org3.plt.net:7351
+1716195100.39 DoS end
+1716195101.54 DoS start target:peer1.org5.plt.net:7551
+1716195103.58 DoS end
+1716195104.25 doublespend carrier 2
+1716195105.40 doublespend carrier 4
+1716195107.50 doublespend carrier 2
+1716195108.29 doublespend carrier 3
+1716195110.39 doublespend carrier 1
+1716195111.47 doublespend carrier 2
+1716195112.19 doublespend carrier 2
+1716195113.56 doublespend carrier 4
+1716195117.63 doublespend carrier 2
+1716195118.22 doublespend carrier 4
+1716195120.24 doublespend carrier 4
+1716195123.66 doublespend carrier 1
+1716195127.33 doublespend carrier 3
+1716195131.18 DoS start target:orderer1.concil.plt.net:7051
+1716195135.23 DoS end
+1716195135.71 doublespend carrier 2
+1716195136.52 doublespend carrier 2
+1716195139.40 DoS start target:orderer2.concil.plt.net:7054
+1716195143.45 DoS end
+1716195144.20 DoS start target:orderer5.concil.plt.net:7063
+1716195146.26 DoS end
+1716195146.79 doublespend carrier 3
+1716195148.52 doublespend carrier 5
+1716195152.44 doublespend carrier 3
+1716195153.46 doublespend carrier 3
+1716195154.35 doublespend carrier 1
+1716195158.58 doublespend carrier 3
+1716195160.49 doublespend carrier 3
+1716195161.67 DoS start target:orderer5.concil.plt.net:7063
+1716195164.71 DoS end
+1716195165.04 doublespend carrier 5
+1716195165.33 doublespend carrier 2
+1716195169.23 DoS start target:orderer5.concil.plt.net:7063
+1716195172.28 DoS end
+1716195175.42 DoS start target:peer1.org2.plt.net:7251
+1716195180.48 DoS end
+1716195180.98 doublespend carrier 2
+1716195182.44 doublespend carrier 1
+1716195183.36 doublespend carrier 4
+1716195186.53 doublespend carrier 4
+1716195187.31 doublespend carrier 2
+1716195188.34 doublespend carrier 3
+1716195190.28 doublespend carrier 5
+1716195194.50 doublespend carrier 5
+1716195195.32 doublespend carrier 5
+1716195198.47 doublespend carrier 1
+1716195199.46 DoS start target:orderer1.concil.plt.net:7051
+1716195203.51 DoS end
+1716195204.71 DoS start target:peer1.org1.plt.net:7151
+1716195206.76 DoS end
+1716195209.44 doublespend carrier 4
+1716195210.28 DoS start target:orderer1.concil.plt.net:7051
+1716195212.34 DoS end
+1716195212.88 doublespend carrier 3
+1716195213.50 doublespend carrier 3
+1716195217.26 DoS start target:orderer2.concil.plt.net:7054
+1716195220.31 DoS end
+1716195220.55 doublespend carrier 3
+1716195221.22 DoS start target:peer1.org4.plt.net:7451
+1716195225.27 DoS end
+1716195225.68 DoS start target:peer1.org4.plt.net:7451
+1716195230.72 DoS end
+1716195232.63 doublespend carrier 1
+1716195235.18 doublespend carrier 2
+1716195236.41 DoS start target:peer1.org4.plt.net:7451
+1716195238.47 DoS end
+1716195240.43 doublespend carrier 5
+1716195242.56 doublespend carrier 1
+1716195243.36 doublespend carrier 5
+1716195244.46 doublespend carrier 1
+1716195245.27 doublespend carrier 3
+1716195249.48 DoS start target:peer1.org5.plt.net:7551
+1716195254.53 DoS end
+1716195255.82 doublespend carrier 3
+1716195259.22 doublespend carrier 5
+1716195263.30 doublespend carrier 5
+1716195264.28 doublespend carrier 4
+1716195265.44 doublespend carrier 1
+1716195267.47 doublespend carrier 5
+1716195268.61 doublespend carrier 2
+1716195270.55 doublespend carrier 2
+1716195272.56 DoS start target:orderer5.concil.plt.net:7063
+1716195274.60 DoS end
+1716195275.09 DoS start target:peer1.org2.plt.net:7251
+1716195278.13 DoS end
+1716195278.75 DoS start target:orderer4.concil.plt.net:7060
+1716195282.80 DoS end
+1716195285.54 doublespend carrier 1
+1716195286.49 doublespend carrier 1
+1716195287.58 doublespend carrier 1
+1716195289.62 doublespend carrier 4
+1716195290.54 doublespend carrier 3
+1716195291.42 DoS start target:peer1.org3.plt.net:7351
+1716195293.48 DoS end
+1716195294.43 doublespend carrier 4
+1716195295.61 doublespend carrier 3
+1716195297.20 DoS start target:peer1.org3.plt.net:7351
+1716195299.25 DoS end
+1716195299.75 doublespend carrier 5
+1716195300.52 doublespend carrier 2
+1716195301.32 doublespend carrier 5
+1716195302.52 doublespend carrier 4
+1716195303.39 doublespend carrier 5
+1716195304.33 doublespend carrier 3
+1716195305.42 doublespend carrier 5
+1716195307.18 doublespend carrier 3
+1716195312.20 DoS start target:peer1.org1.plt.net:7151
+1716195317.25 DoS end
+1716195322.37 doublespend carrier 1
+1716195323.49 doublespend carrier 1
+1716195324.67 DoS start target:orderer4.concil.plt.net:7060
+1716195328.71 DoS end
+1716195329.31 doublespend carrier 1
+1716195330.01 doublespend carrier 4
+1716195330.34 DoS start target:peer1.org4.plt.net:7451
+1716195333.39 DoS end
+1716195334.62 doublespend carrier 5
+1716195335.37 DoS start target:orderer5.concil.plt.net:7063
+1716195340.41 DoS end
+1716195341.53 doublespend carrier 3
+1716195344.21 doublespend carrier 2
+1716195345.20 doublespend carrier 2
+1716195349.23 doublespend carrier 2
+1716195350.57 DoS start target:orderer2.concil.plt.net:7054
+1716195353.63 DoS end
+1716195354.17 doublespend carrier 4
+1716195357.32 doublespend carrier 3
+1716195360.27 doublespend carrier 2
+1716195361.24 doublespend carrier 2
+1716195363.42 DoS start target:peer1.org1.plt.net:7151
+1716195368.48 DoS end
+1716195369.81 doublespend carrier 1
+1716195371.47 DoS start target:peer1.org3.plt.net:7351
+1716195375.54 DoS end
+1716195377.64 doublespend carrier 2
+1716195379.48 doublespend carrier 5
+1716195380.66 doublespend carrier 3
+1716195382.61 doublespend carrier 5
+1716195384.32 doublespend carrier 4
+1716195386.29 DoS start target:orderer4.concil.plt.net:7060
+1716195390.34 DoS end
+1716195390.67 DoS start target:orderer4.concil.plt.net:7060
+1716195393.73 DoS end
+1716195394.36 doublespend carrier 3
+1716195394.66 doublespend carrier 1
+1716195395.64 DoS start target:orderer4.concil.plt.net:7060
+1716195397.69 DoS end
+1716195399.51 doublespend carrier 4
+1716195404.23 doublespend carrier 3
+1716195407.34 doublespend carrier 3
+1716195408.19 doublespend carrier 4
+1716195410.48 doublespend carrier 4
+1716195411.63 DoS start target:peer1.org1.plt.net:7151
+1716195416.67 DoS end
+1716195418.44 doublespend carrier 2
+1716195419.59 doublespend carrier 4
+1716195421.56 doublespend carrier 2
+1716195423.62 doublespend carrier 1
+1716195424.55 doublespend carrier 3
+1716195425.40 doublespend carrier 2
+1716195429.49 DoS start target:peer1.org4.plt.net:7451
+1716195431.53 DoS end
+1716195433.48 doublespend carrier 4
+1716195435.53 doublespend carrier 4
+1716195438.27 doublespend carrier 2
+1716195443.32 doublespend carrier 3
+1716195446.34 doublespend carrier 5
+1716195447.20 doublespend carrier 5
+1716195449.25 doublespend carrier 2
+1716195450.35 doublespend carrier 5
+1716195451.33 doublespend carrier 3
+1716195452.42 DoS start target:peer1.org5.plt.net:7551
+1716195456.47 DoS end
+1716195461.66 doublespend carrier 4
+1716195462.43 doublespend carrier 5
+1716195465.38 doublespend carrier 3
+1716195467.39 doublespend carrier 1
+1716195468.33 doublespend carrier 5
+1716195469.48 doublespend carrier 4
+1716195470.27 doublespend carrier 4
+1716195471.41 doublespend carrier 3
+1716195473.49 doublespend carrier 4
+1716195474.18 doublespend carrier 1
+1716195476.41 doublespend carrier 1
+1716195478.18 doublespend carrier 5
+1716195479.46 doublespend carrier 1
+1716195480.20 doublespend carrier 2
+1716195482.34 doublespend carrier 3
+1716195484.18 doublespend carrier 4
+1716195486.23 doublespend carrier 2
+1716195488.21 doublespend carrier 2
+1716195492.45 doublespend carrier 1
+1716195495.58 doublespend carrier 3
+1716195496.52 doublespend carrier 2
+1716195498.40 doublespend carrier 3
+1716195499.36 doublespend carrier 2
+1716195502.31 doublespend carrier 5
+1716195506.41 doublespend carrier 5
+1716195507.53 DoS start target:peer1.org2.plt.net:7251
+1716195511.56 DoS end
+1716195512.07 doublespend carrier 2
+1716195512.38 DoS start target:peer1.org2.plt.net:7251
+1716195517.44 DoS end
+1716195518.52 doublespend carrier 3
+1716195519.23 doublespend carrier 4
+1716195521.45 doublespend carrier 1
+1716195522.53 doublespend carrier 2
+1716195523.19 doublespend carrier 1
+1716195524.27 doublespend carrier 5
+1716195525.18 doublespend carrier 3
+1716195527.66 doublespend carrier 4
+1716195528.39 doublespend carrier 4
+1716195532.33 doublespend carrier 4
+1716195533.48 doublespend carrier 1
+1716195534.35 doublespend carrier 4
+1716195538.35 doublespend carrier 4
+1716195541.57 DoS start target:orderer3.concil.plt.net:7057
+1716195545.62 DoS end
+1716195546.48 doublespend carrier 3
+1716195549.26 DoS start target:peer1.org4.plt.net:7451
+1716195552.31 DoS end
+1716195553.26 doublespend carrier 1
+1716195554.43 doublespend carrier 5
+1716195555.22 doublespend carrier 1
+1716195557.67 doublespend carrier 2
+1716195561.43 doublespend carrier 5
+1716195563.34 doublespend carrier 1
+1716195564.63 doublespend carrier 1
+1716195565.40 doublespend carrier 1
+1716195566.33 doublespend carrier 2
+1716195569.57 DoS start target:orderer3.concil.plt.net:7057
+1716195572.63 DoS end
+1716195573.08 doublespend carrier 1
+1716195573.65 doublespend carrier 4
+1716195582.36 DoS start target:orderer1.concil.plt.net:7051
+1716195586.42 DoS end
+1716195588.42 DoS start target:orderer2.concil.plt.net:7054
+1716195590.47 DoS end
+1716195590.83 doublespend carrier 1
+1716195591.60 doublespend carrier 1
+1716195592.40 doublespend carrier 3
+1716195595.67 doublespend carrier 3
+1716195596.60 doublespend carrier 2
+1716195603.34 doublespend carrier 3
+1716195604.39 doublespend carrier 5
+1716195605.20 DoS start target:orderer1.concil.plt.net:7051
+1716195608.25 DoS end
+1716195608.67 doublespend carrier 5
+1716195609.63 doublespend carrier 3
+1716195610.35 doublespend carrier 5
+1716195611.66 doublespend carrier 1
+1716195612.44 doublespend carrier 2
+1716195613.23 doublespend carrier 5
+1716195618.58 doublespend carrier 3
+1716195620.20 doublespend carrier 2
+1716195621.65 doublespend carrier 2
+1716195623.26 doublespend carrier 5
+1716195624.67 DoS start target:peer1.org2.plt.net:7251
+1716195629.72 DoS end
+1716195630.38 doublespend carrier 1
+1716195631.64 doublespend carrier 4
+1716195633.57 doublespend carrier 4
+1716195639.43 DoS start target:orderer5.concil.plt.net:7063
+1716195644.47 DoS end
+1716195645.21 doublespend carrier 3
+1716195646.52 doublespend carrier 2
+1716195647.60 doublespend carrier 1
+1716195649.33 DoS start target:orderer4.concil.plt.net:7060
+1716195653.37 DoS end
+1716195653.58 doublespend carrier 1
+1716195654.32 doublespend carrier 2
+1716195655.58 DoS start target:peer1.org2.plt.net:7251
+1716195657.63 DoS end
+1716195658.26 doublespend carrier 3
+1716195659.20 doublespend carrier 5
+1716195663.23 doublespend carrier 3
+1716195664.39 doublespend carrier 3
+1716195665.52 doublespend carrier 5
+1716195667.27 doublespend carrier 3
+1716195668.30 doublespend carrier 2
+1716195675.21 doublespend carrier 4
+1716195676.59 doublespend carrier 4
+1716195679.46 doublespend carrier 1
+1716195680.20 doublespend carrier 3
+1716195681.48 doublespend carrier 1
+1716195683.20 doublespend carrier 5
+1716195685.26 DoS start target:orderer3.concil.plt.net:7057
+1716195688.29 DoS end
+1716195689.22 doublespend carrier 2
+1716195697.51 doublespend carrier 5
+1716195698.45 doublespend carrier 2
+1716195703.27 doublespend carrier 4
+1716195704.62 doublespend carrier 3
+1716195706.31 doublespend carrier 3
+1716195708.24 doublespend carrier 1
+1716195710.49 doublespend carrier 4
+1716195712.18 doublespend carrier 4
+1716195713.39 doublespend carrier 1
+1716195714.47 doublespend carrier 4
+1716195715.45 doublespend carrier 1
+1716195718.65 doublespend carrier 5
+1716195719.52 doublespend carrier 5
+1716195723.38 doublespend carrier 5
+1716195726.39 doublespend carrier 4
+1716195728.28 doublespend carrier 5
+1716195729.53 DoS start target:orderer2.concil.plt.net:7054
+1716195733.58 DoS end
+1716195734.38 doublespend carrier 3
+1716195736.57 doublespend carrier 4
+1716195740.63 doublespend carrier 1
+1716195744.33 doublespend carrier 1
+1716195746.19 doublespend carrier 1
+1716195747.38 DoS start target:peer1.org4.plt.net:7451
+1716195751.44 DoS end
+1716195755.40 doublespend carrier 2
+1716195758.36 doublespend carrier 1
+1716195765.24 doublespend carrier 1
+1716195768.30 doublespend carrier 5
+1716195771.61 doublespend carrier 5
+1716195772.60 doublespend carrier 3
+1716195774.38 doublespend carrier 1
+1716195775.52 doublespend carrier 2
+1716195778.52 DoS start target:peer1.org4.plt.net:7451
+1716195783.58 DoS end
+1716195784.49 doublespend carrier 5
+1716195785.42 DoS start target:orderer5.concil.plt.net:7063
+1716195789.47 DoS end
+1716195791.40 doublespend carrier 5
+1716195792.46 doublespend carrier 5
+1716195793.37 DoS start target:peer1.org5.plt.net:7551
+1716195797.41 DoS end
+1716195797.69 doublespend carrier 5
+1716195798.19 doublespend carrier 5
+1716195799.53 DoS start target:peer1.org1.plt.net:7151
+1716195804.58 DoS end
+1716195807.57 doublespend carrier 5
+1716195811.30 doublespend carrier 2
+1716195812.41 doublespend carrier 2
+1716195814.40 doublespend carrier 2
+1716195818.46 DoS start target:orderer1.concil.plt.net:7051
+1716195822.51 DoS end
+1716195822.93 doublespend carrier 5
+1716195824.38 DoS start target:orderer5.concil.plt.net:7063
+1716195826.42 DoS end
+1716195827.01 doublespend carrier 1
+1716195828.19 doublespend carrier 5
+1716195830.48 doublespend carrier 5
+1716195834.49 doublespend carrier 5
+1716195835.41 doublespend carrier 2
+1716195836.24 doublespend carrier 3
+1716195837.57 DoS start target:orderer3.concil.plt.net:7057
+1716195841.61 DoS end
+1716195850.67 doublespend carrier 5
+1716195852.63 doublespend carrier 3
+1716195856.38 doublespend carrier 5
+1716195857.20 doublespend carrier 2
+1716195859.54 DoS start target:orderer1.concil.plt.net:7051
+1716195863.60 DoS end
+1716195864.66 doublespend carrier 5
+1716195866.51 doublespend carrier 1
+1716195867.58 doublespend carrier 4
+1716195869.58 doublespend carrier 1
+1716195871.45 doublespend carrier 5
+1716195873.66 doublespend carrier 4
+1716195874.56 DoS start target:orderer5.concil.plt.net:7063
+1716195876.60 DoS end
+1716195877.01 doublespend carrier 1
+1716195877.31 doublespend carrier 3
+1716195878.65 doublespend carrier 4
+1716195880.67 doublespend carrier 3
+1716195881.61 doublespend carrier 4
+1716195882.18 doublespend carrier 3
+1716195883.65 doublespend carrier 5
+1716195885.25 doublespend carrier 4
+1716195886.48 DoS start target:orderer3.concil.plt.net:7057
+1716195891.53 DoS end
+1716195896.65 doublespend carrier 1
+1716195897.39 doublespend carrier 2
+1716195898.34 doublespend carrier 2
+1716195902.27 doublespend carrier 2
+1716195904.56 DoS start target:orderer5.concil.plt.net:7063
+1716195906.63 DoS end
+1716195907.17 doublespend carrier 4
+1716195912.28 doublespend carrier 5
+1716195915.26 doublespend carrier 4
+1716195916.45 doublespend carrier 5
+1716195917.30 doublespend carrier 3
+1716195918.54 doublespend carrier 3
+1716195919.59 doublespend carrier 1
+1716195920.24 doublespend carrier 2
+1716195921.62 doublespend carrier 2
+1716195923.32 doublespend carrier 5
+1716195925.63 doublespend carrier 1
+1716195927.24 doublespend carrier 1
+1716195930.67 doublespend carrier 2
+1716195932.65 doublespend carrier 3
+1716195934.40 doublespend carrier 2
+1716195936.19 doublespend carrier 3
+1716195940.67 doublespend carrier 4
+1716195941.36 doublespend carrier 5
+1716195942.56 DoS start target:orderer3.concil.plt.net:7057
+1716195944.61 DoS end
+1716195945.09 doublespend carrier 5
+1716195945.65 doublespend carrier 1
+1716195946.34 doublespend carrier 4
+1716195948.37 DoS start target:peer1.org4.plt.net:7451
+1716195952.42 DoS end
+1716195952.64 doublespend carrier 2
+1716195954.62 DoS start target:orderer5.concil.plt.net:7063
+1716195958.68 DoS end
+1716195962.35 doublespend carrier 5
+1716195963.27 doublespend carrier 2
+1716195964.33 DoS start target:orderer4.concil.plt.net:7060
+1716195968.37 DoS end
+1716195968.63 DoS start target:orderer3.concil.plt.net:7057
+1716195972.69 DoS end
+1716195973.50 doublespend carrier 5
+1716195976.23 doublespend carrier 2
+1716195979.55 doublespend carrier 3
+1716195980.38 doublespend carrier 2
+1716195981.45 doublespend carrier 5
+1716195983.47 doublespend carrier 4
+1716195986.60 doublespend carrier 3
+1716195988.32 doublespend carrier 1
+1716195989.32 doublespend carrier 2
+1716195990.25 doublespend carrier 2
+1716195992.18 doublespend carrier 2
+1716195994.55 doublespend carrier 1
+1716195995.22 doublespend carrier 5
+1716195996.63 doublespend carrier 3
+1716195998.48 doublespend carrier 2
+1716196000.22 doublespend carrier 5
+1716196001.56 doublespend carrier 5
+1716196004.55 doublespend carrier 3
+1716196012.55 doublespend carrier 3
+1716196013.56 doublespend carrier 5
+1716196015.54 doublespend carrier 1
+1716196016.49 doublespend carrier 2
+1716196020.53 DoS start target:orderer5.concil.plt.net:7063
+1716196023.59 DoS end
+1716196024.12 doublespend carrier 2
+1716196024.64 doublespend carrier 2
+1716196025.49 doublespend carrier 3
+1716196028.25 doublespend carrier 3
+1716196033.48 doublespend carrier 5
+1716196034.63 doublespend carrier 5
+1716196035.46 doublespend carrier 2
+1716196036.62 doublespend carrier 3
+1716196038.25 doublespend carrier 3
+1716196040.24 doublespend carrier 5
+1716196041.23 doublespend carrier 4
+1716196043.40 doublespend carrier 5
+1716196045.37 doublespend carrier 5
+1716196047.57 doublespend carrier 5
+1716196049.60 doublespend carrier 4
+1716196050.19 doublespend carrier 2
+1716196052.47 doublespend carrier 3
+1716196053.18 doublespend carrier 1
+1716196054.50 doublespend carrier 3
+1716196056.45 doublespend carrier 5
+1716196059.21 doublespend carrier 4
+1716196060.56 doublespend carrier 2
+1716196061.56 doublespend carrier 4
+1716196062.59 doublespend carrier 5
+1716196063.37 doublespend carrier 4
+1716196064.62 DoS start target:orderer2.concil.plt.net:7054
+1716196068.68 DoS end
+1716196069.79 doublespend carrier 4
+1716196071.27 doublespend carrier 3
+1716196073.35 doublespend carrier 5
+1716196074.57 doublespend carrier 1
+1716196075.30 doublespend carrier 1
+1716196078.49 doublespend carrier 5
+1716196079.67 doublespend carrier 5
+1716196081.46 doublespend carrier 5
+1716196082.38 doublespend carrier 3
+1716196083.39 doublespend carrier 3
+1716196086.30 DoS start target:peer1.org5.plt.net:7551
+1716196088.34 DoS end
+1716196092.34 doublespend carrier 2
+1716196098.29 DoS start target:orderer3.concil.plt.net:7057
+1716196103.35 DoS end
+1716196103.86 doublespend carrier 3
+1716196105.52 DoS start target:orderer5.concil.plt.net:7063
+1716196110.56 DoS end
+1716196111.14 DoS start target:peer1.org4.plt.net:7451
+1716196116.18 DoS end
+1716196116.66 doublespend carrier 3
+1716196117.31 doublespend carrier 3
+1716196122.60 doublespend carrier 4
+1716196123.46 doublespend carrier 1
+1716196125.63 doublespend carrier 3
+1716196128.56 doublespend carrier 1
+1716196133.24 DoS start target:orderer1.concil.plt.net:7051
+1716196138.29 DoS end
+1716196138.85 doublespend carrier 3
+1716196141.46 doublespend carrier 4
+1716196145.18 DoS start target:orderer4.concil.plt.net:7060
+1716196148.22 DoS end
+1716196149.43 doublespend carrier 2
+1716196151.51 DoS start target:orderer5.concil.plt.net:7063
+1716196154.55 DoS end
+1716196155.00 doublespend carrier 4
+1716196155.48 doublespend carrier 3
+1716196156.29 doublespend carrier 2
+1716196158.56 DoS start target:orderer4.concil.plt.net:7060
+1716196163.61 DoS end
+1716196165.61 doublespend carrier 1
+1716196167.27 doublespend carrier 1
+1716196169.19 DoS start target:orderer3.concil.plt.net:7057
+1716196171.23 DoS end
+1716196173.35 DoS start target:peer1.org5.plt.net:7551
+1716196176.39 DoS end
+1716196176.69 DoS start target:orderer1.concil.plt.net:7051
+1716196179.74 DoS end
+1716196180.73 doublespend carrier 3
+1716196182.19 doublespend carrier 1
+1716196186.66 DoS start target:peer1.org2.plt.net:7251
+1716196189.70 DoS end
+1716196190.41 doublespend carrier 4
+1716196192.61 doublespend carrier 2
+1716196193.29 doublespend carrier 5
+1716196195.22 doublespend carrier 3
+1716196196.56 doublespend carrier 4
+1716196198.53 doublespend carrier 4
+1716196199.37 doublespend carrier 2
+1716196200.24 DoS start target:orderer1.concil.plt.net:7051
+1716196205.29 DoS end
+1716196206.34 doublespend carrier 4
+1716196208.50 DoS start target:orderer5.concil.plt.net:7063
+1716196211.55 DoS end
+1716196212.25 doublespend carrier 1
+1716196213.53 doublespend carrier 4
+1716196214.45 DoS start target:orderer4.concil.plt.net:7060
+1716196216.49 DoS end
+1716196216.99 doublespend carrier 2
+1716196217.38 DoS start target:orderer5.concil.plt.net:7063
+1716196222.43 DoS end
+1716196224.38 doublespend carrier 2
+1716196225.41 doublespend carrier 2
+1716196226.35 doublespend carrier 2
+1716196229.30 doublespend carrier 4
+1716196230.21 doublespend carrier 3
+1716196232.27 doublespend carrier 4
+1716196233.53 doublespend carrier 2
+1716196234.34 doublespend carrier 1
+1716196236.67 doublespend carrier 1
+1716196237.39 doublespend carrier 4
+1716196238.48 doublespend carrier 2
+1716196241.18 doublespend carrier 2
+1716196243.63 DoS start target:peer1.org1.plt.net:7151
+1716196248.68 DoS end
+1716196249.56 doublespend carrier 3
+1716196250.56 doublespend carrier 1
+1716196253.25 DoS start target:peer1.org3.plt.net:7351
+1716196255.29 DoS end
+1716196260.25 doublespend carrier 4
+1716196262.67 doublespend carrier 2
+1716196264.43 doublespend carrier 5
+1716196266.66 doublespend carrier 4
+1716196268.38 doublespend carrier 2
+1716196270.43 doublespend carrier 3
+1716196273.48 doublespend carrier 4
+1716196275.55 doublespend carrier 5
+1716196276.56 DoS start target:peer1.org1.plt.net:7151
+1716196279.61 DoS end
+1716196283.23 doublespend carrier 4
+1716196288.46 DoS start target:orderer5.concil.plt.net:7063
+1716196292.52 DoS end
+1716196294.44 doublespend carrier 3
+1716196295.67 DoS start target:peer1.org4.plt.net:7451
+1716196299.73 DoS end
+1716196300.39 doublespend carrier 2
+1716196302.39 doublespend carrier 5
+1716196304.32 doublespend carrier 4
+1716196306.43 DoS start target:orderer5.concil.plt.net:7063
+1716196310.49 DoS end
+1716196310.91 doublespend carrier 5
+1716196316.66 doublespend carrier 5
+1716196318.49 doublespend carrier 4
+1716196319.60 doublespend carrier 3
+1716196320.18 doublespend carrier 2
+1716196322.20 doublespend carrier 5
+1716196324.18 doublespend carrier 1
+1716196327.63 doublespend carrier 2
+1716196328.23 doublespend carrier 4
+1716196331.63 doublespend carrier 5
+1716196333.27 doublespend carrier 2
+1716196335.30 doublespend carrier 3
+1716196336.41 doublespend carrier 3
+1716196337.28 doublespend carrier 3
+1716196343.46 doublespend carrier 3
+1716196346.48 doublespend carrier 5
+1716196347.52 doublespend carrier 3
+1716196348.37 doublespend carrier 3
+1716196350.40 DoS start target:orderer4.concil.plt.net:7060
+1716196352.44 DoS end
+1716196353.63 doublespend carrier 2
+1716196355.45 doublespend carrier 2
+1716196356.46 doublespend carrier 4
+1716196361.66 doublespend carrier 4
+1716196365.24 doublespend carrier 1
+1716196368.67 doublespend carrier 2
+1716196369.34 doublespend carrier 2
+1716196371.18 DoS start target:peer1.org4.plt.net:7451
+1716196373.24 DoS end
+1716196380.50 doublespend carrier 1
+1716196382.33 doublespend carrier 5
+1716196385.30 doublespend carrier 1
+1716196387.63 doublespend carrier 1
+1716196388.39 doublespend carrier 4
+1716196389.20 doublespend carrier 2
+1716196391.20 doublespend carrier 1
+1716196394.48 doublespend carrier 2
+1716196398.41 doublespend carrier 2
+1716196400.26 doublespend carrier 1
+1716196403.22 doublespend carrier 2
+1716196404.66 DoS start target:orderer5.concil.plt.net:7063
+1716196409.71 DoS end
+1716196410.25 doublespend carrier 3
+1716196410.54 DoS start target:peer1.org5.plt.net:7551
+1716196414.59 DoS end
+1716196415.15 doublespend carrier 5
+1716196415.59 doublespend carrier 5
+1716196416.57 doublespend carrier 1
+1716196418.41 doublespend carrier 2
+1716196419.65 doublespend carrier 4
+1716196420.43 doublespend carrier 3
+1716196421.37 doublespend carrier 3
+1716196423.27 doublespend carrier 1
+1716196425.35 doublespend carrier 3
+1716196428.49 doublespend carrier 5
+1716196431.63 doublespend carrier 4
+1716196433.49 doublespend carrier 4
+1716196440.58 doublespend carrier 4
+1716196441.42 doublespend carrier 4
+1716196442.50 DoS start target:peer1.org3.plt.net:7351
+1716196445.57 DoS end
+1716196445.90 doublespend carrier 4
+1716196447.19 doublespend carrier 4
+1716196449.37 doublespend carrier 1
+1716196450.58 doublespend carrier 5
+1716196451.27 DoS start target:orderer2.concil.plt.net:7054
+1716196456.31 DoS end
+1716196456.90 DoS start target:peer1.org5.plt.net:7551
+1716196460.95 DoS end
+1716196461.34 doublespend carrier 3
+1716196461.86 doublespend carrier 1
+1716196463.38 doublespend carrier 2
+1716196464.18 doublespend carrier 4
+1716196465.48 doublespend carrier 1
+1716196466.24 doublespend carrier 5
+1716196467.63 doublespend carrier 1
+1716196468.56 doublespend carrier 2
+1716196469.49 doublespend carrier 3
+1716196470.41 doublespend carrier 4
+1716196472.21 doublespend carrier 4
+1716196473.42 doublespend carrier 3
+1716196474.26 doublespend carrier 5
+1716196476.46 doublespend carrier 4
+1716196477.45 doublespend carrier 2
+1716196478.18 DoS start target:orderer3.concil.plt.net:7057
+1716196481.23 DoS end
+1716196481.80 doublespend carrier 4
+1716196483.65 DoS start target:peer1.org4.plt.net:7451
+1716196486.71 DoS end
+1716196488.46 doublespend carrier 3
+1716196488.80 doublespend carrier 1
+1716196489.31 doublespend carrier 3
+1716196491.22 doublespend carrier 2
+1716196492.54 doublespend carrier 1
+1716196493.41 doublespend carrier 2
+1716196494.63 doublespend carrier 5
+1716196495.21 DoS start target:orderer4.concil.plt.net:7060
+1716196499.25 DoS end
+1716196499.71 doublespend carrier 5
+1716196504.36 doublespend carrier 2
+1716196505.47 doublespend carrier 4
+1716196506.49 doublespend carrier 2
+1716196509.29 doublespend carrier 1
+1716196510.23 doublespend carrier 5
+1716196511.41 doublespend carrier 2
+1716196512.53 doublespend carrier 4
+1716196513.32 doublespend carrier 2
+1716196515.39 doublespend carrier 1
+1716196517.37 doublespend carrier 5
+1716196518.21 doublespend carrier 4
+1716196519.39 DoS start target:peer1.org5.plt.net:7551
+1716196521.43 DoS end
+1716196522.11 doublespend carrier 2
+1716196523.42 doublespend carrier 1
+1716196524.61 doublespend carrier 2
+1716196526.19 doublespend carrier 2
+1716196527.63 DoS start target:orderer3.concil.plt.net:7057
+1716196530.67 DoS end
+1716196530.89 doublespend carrier 2
+1716196531.37 doublespend carrier 4
+1716196533.26 doublespend carrier 5
+1716196535.45 doublespend carrier 4
+1716196536.22 doublespend carrier 4
+1716196537.63 doublespend carrier 2
+1716196542.24 DoS start target:peer1.org3.plt.net:7351
+1716196547.28 DoS end
+1716196547.74 doublespend carrier 1
+1716196550.27 doublespend carrier 5
+1716196553.37 doublespend carrier 1
+1716196554.38 DoS start target:peer1.org3.plt.net:7351
+1716196558.43 DoS end
+1716196559.27 doublespend carrier 3
+1716196560.25 doublespend carrier 3
+1716196562.55 doublespend carrier 2
+1716196563.67 doublespend carrier 1
+1716196564.52 doublespend carrier 5
+1716196565.22 doublespend carrier 2
+1716196567.62 doublespend carrier 2
+1716196569.30 doublespend carrier 2
+1716196570.54 doublespend carrier 3
+1716196576.55 doublespend carrier 4
+1716196579.44 doublespend carrier 5
+1716196585.27 doublespend carrier 2
+1716196586.34 doublespend carrier 2
+1716196588.20 doublespend carrier 1
+1716196590.35 doublespend carrier 1
+1716196591.33 DoS start target:peer1.org1.plt.net:7151
+1716196596.39 DoS end
+1716196596.94 doublespend carrier 2
+1716196601.61 doublespend carrier 1
+1716196602.65 doublespend carrier 1
+1716196603.29 DoS start target:orderer1.concil.plt.net:7051
+1716196608.34 DoS end
+1716196608.87 DoS start target:orderer1.concil.plt.net:7051
+1716196610.92 DoS end
+1716196611.46 doublespend carrier 5
+1716196612.20 doublespend carrier 5
+1716196616.57 doublespend carrier 5
+1716196618.40 doublespend carrier 1
+1716196620.27 doublespend carrier 3
+1716196621.18 doublespend carrier 5
+1716196622.30 DoS start target:orderer5.concil.plt.net:7063
+1716196627.35 DoS end
+1716196627.68 doublespend carrier 1
+1716196633.31 doublespend carrier 1
+1716196634.38 doublespend carrier 2
+1716196639.54 doublespend carrier 3
+1716196640.53 doublespend carrier 5
+1716196641.67 DoS start target:orderer1.concil.plt.net:7051
+1716196645.71 DoS end
+1716196646.61 DoS start target:orderer5.concil.plt.net:7063
+1716196651.67 DoS end
+1716196651.95 doublespend carrier 3
+1716196655.23 doublespend carrier 3
+1716196657.33 doublespend carrier 4
+1716196661.53 DoS start target:orderer2.concil.plt.net:7054
+1716196665.57 DoS end
+1716196665.91 doublespend carrier 2
+1716196666.47 doublespend carrier 1
+1716196667.26 DoS start target:orderer2.concil.plt.net:7054
+1716196669.32 DoS end
+1716196669.68 doublespend carrier 3
+1716196670.60 doublespend carrier 5
+1716196671.48 doublespend carrier 1
+1716196672.36 DoS start target:peer1.org2.plt.net:7251
+1716196674.41 DoS end
+1716196674.95 doublespend carrier 2
+1716196675.46 doublespend carrier 3
+1716196676.31 doublespend carrier 3
+1716196677.25 doublespend carrier 1
+1716196678.60 doublespend carrier 4
+1716196679.34 DoS start target:orderer3.concil.plt.net:7057
+1716196683.39 DoS end
+1716196684.38 DoS start target:peer1.org2.plt.net:7251
+1716196689.43 DoS end
+1716196689.93 doublespend carrier 5
+1716196690.67 doublespend carrier 4
+1716196692.21 doublespend carrier 2
+1716196694.36 doublespend carrier 3
+1716196695.51 doublespend carrier 3
+1716196698.50 DoS start target:orderer1.concil.plt.net:7051
+1716196702.54 DoS end
+1716196703.63 doublespend carrier 1
+1716196704.62 DoS start target:peer1.org1.plt.net:7151
+1716196709.67 DoS end
+1716196711.51 doublespend carrier 2
+1716196717.29 doublespend carrier 4
+1716196719.36 doublespend carrier 1
+1716196720.62 DoS start target:orderer5.concil.plt.net:7063
+1716196723.67 DoS end
+1716196724.70 doublespend carrier 1
+1716196726.35 doublespend carrier 4
+1716196727.34 doublespend carrier 3
+1716196728.53 doublespend carrier 3
+1716196729.30 doublespend carrier 1
+1716196738.42 doublespend carrier 4
+1716196742.61 doublespend carrier 5
+1716196744.63 doublespend carrier 1
+1716196745.59 doublespend carrier 5
+1716196746.36 doublespend carrier 3
+1716196747.51 doublespend carrier 4
+1716196748.60 doublespend carrier 2
+1716196749.45 DoS start target:peer1.org3.plt.net:7351
+1716196754.50 DoS end
+1716196754.81 doublespend carrier 2
+1716196755.32 doublespend carrier 4
+1716196756.54 doublespend carrier 5
+1716196758.57 DoS start target:peer1.org1.plt.net:7151
+1716196761.61 DoS end
+1716196762.30 doublespend carrier 2
+1716196763.26 doublespend carrier 5
+1716196767.65 doublespend carrier 5
+1716196768.35 doublespend carrier 4
+1716196770.22 DoS start target:peer1.org5.plt.net:7551
+1716196774.27 DoS end
+1716196777.61 doublespend carrier 4
+1716196779.49 doublespend carrier 4
+1716196780.42 doublespend carrier 5
+1716196781.53 doublespend carrier 2
+1716196783.41 doublespend carrier 5
+1716196784.30 DoS start target:peer1.org4.plt.net:7451
+1716196786.34 DoS end
+1716196790.38 doublespend carrier 4
+1716196793.57 doublespend carrier 4
+1716196797.50 doublespend carrier 5
+1716196798.65 doublespend carrier 1
+1716196800.62 doublespend carrier 3
+1716196802.53 doublespend carrier 3
+1716196807.36 DoS start target:orderer1.concil.plt.net:7051
+1716196809.42 DoS end
+1716196810.55 DoS start target:peer1.org3.plt.net:7351
+1716196813.59 DoS end
+1716196817.47 doublespend carrier 4
+1716196819.32 doublespend carrier 4
+1716196820.66 DoS start target:peer1.org2.plt.net:7251
+1716196823.71 DoS end
+1716196824.39 doublespend carrier 5
+1716196826.19 doublespend carrier 2
+1716196827.62 DoS start target:orderer5.concil.plt.net:7063
+1716196831.68 DoS end
+1716196832.08 DoS start target:peer1.org5.plt.net:7551
+1716196836.13 DoS end
+1716196839.60 doublespend carrier 5
+1716196840.64 doublespend carrier 5
+1716196842.48 DoS start target:orderer3.concil.plt.net:7057
+1716196845.53 DoS end
+1716196853.61 doublespend carrier 2
+1716196856.48 doublespend carrier 4
+1716196857.55 DoS start target:peer1.org3.plt.net:7351
+1716196861.62 DoS end
+1716196862.05 doublespend carrier 2
+1716196863.61 DoS start target:orderer2.concil.plt.net:7054
+1716196867.66 DoS end
+1716196871.58 doublespend carrier 3
+1716196873.33 doublespend carrier 3
+1716196874.26 doublespend carrier 4
+1716196875.26 doublespend carrier 2
+1716196877.53 doublespend carrier 4
+1716196878.56 doublespend carrier 5
+1716196879.30 doublespend carrier 4
+1716196881.37 doublespend carrier 5
+1716196882.22 doublespend carrier 4
+1716196883.37 doublespend carrier 4
+1716196885.67 doublespend carrier 2
+1716196888.62 doublespend carrier 4
+1716196889.40 doublespend carrier 2
+1716196890.48 doublespend carrier 1
+1716196895.19 DoS start target:orderer3.concil.plt.net:7057
+1716196898.23 DoS end
+1716196898.62 doublespend carrier 2
+1716196900.25 doublespend carrier 3
+1716196901.24 doublespend carrier 1
+1716196910.30 doublespend carrier 5
+1716196912.52 doublespend carrier 2
+1716196915.52 doublespend carrier 5
+1716196916.56 doublespend carrier 4
+1716196917.36 doublespend carrier 1
+1716196918.38 doublespend carrier 1
+1716196921.44 DoS start target:peer1.org1.plt.net:7151
+1716196924.49 DoS end
+1716196924.93 DoS start target:orderer4.concil.plt.net:7060
+1716196926.98 DoS end
+1716196927.51 doublespend carrier 4
+1716196929.28 doublespend carrier 2
+1716196932.29 doublespend carrier 4
+1716196933.59 doublespend carrier 4
+1716196937.57 doublespend carrier 4
+1716196938.58 doublespend carrier 1
+1716196939.29 doublespend carrier 2
+1716196940.52 DoS start target:peer1.org1.plt.net:7151
+1716196945.56 DoS end
+1716196946.38 doublespend carrier 1
+1716196947.19 doublespend carrier 2
+1716196950.59 doublespend carrier 2
+1716196951.22 DoS start target:orderer2.concil.plt.net:7054
+1716196955.26 DoS end
+1716196955.48 DoS start target:orderer1.concil.plt.net:7051
+1716196959.52 DoS end
+1716196960.14 doublespend carrier 1
+1716196960.69 doublespend carrier 1
+1716196962.34 doublespend carrier 4
+1716196965.31 DoS start target:orderer5.concil.plt.net:7063
+1716196967.36 DoS end
+1716196968.46 doublespend carrier 3
+1716196969.43 doublespend carrier 2
+1716196973.25 doublespend carrier 3
+1716196974.63 doublespend carrier 5
+1716196976.25 doublespend carrier 2
+1716196977.54 doublespend carrier 3
+1716196981.27 doublespend carrier 3
+1716196982.26 doublespend carrier 3
+1716196985.47 doublespend carrier 2
+1716196986.47 doublespend carrier 1
+1716196987.58 doublespend carrier 4
+1716196988.55 doublespend carrier 1
+1716196989.35 doublespend carrier 5
+1716196990.67 DoS start target:peer1.org2.plt.net:7251
+1716196994.72 DoS end
+1716196996.39 doublespend carrier 3
+1716196997.28 doublespend carrier 1
+1716197000.46 DoS start target:peer1.org2.plt.net:7251
+1716197004.51 DoS end
+1716197009.28 doublespend carrier 1
+1716197011.36 doublespend carrier 3
+1716197012.21 DoS start target:peer1.org2.plt.net:7251
+1716197014.27 DoS end
+1716197014.84 DoS start target:orderer3.concil.plt.net:7057
+1716197017.89 DoS end
+1716197018.70 doublespend carrier 4
+1716197019.45 doublespend carrier 2
+1716197020.19 doublespend carrier 5
+1716197021.46 doublespend carrier 1
+1716197022.67 doublespend carrier 4
+1716197023.56 doublespend carrier 3
+1716197024.34 doublespend carrier 5
+1716197026.51 doublespend carrier 3
+1716197028.34 doublespend carrier 4
+1716197031.19 doublespend carrier 2
+1716197032.18 DoS start target:orderer5.concil.plt.net:7063
+1716197037.23 DoS end
+1716197041.50 doublespend carrier 4
+1716197043.46 doublespend carrier 5
+1716197047.32 doublespend carrier 2
+1716197048.42 doublespend carrier 4
+1716197049.36 doublespend carrier 2
+1716197050.59 doublespend carrier 5
+1716197051.21 doublespend carrier 3
+1716197054.38 doublespend carrier 5
+1716197055.21 doublespend carrier 2
+1716197056.42 doublespend carrier 3
+1716197057.28 doublespend carrier 4
+1716197058.55 doublespend carrier 4
+1716197059.63 doublespend carrier 1
+1716197060.44 doublespend carrier 3
+1716197061.32 doublespend carrier 2
+1716197064.64 doublespend carrier 4
+1716197067.21 doublespend carrier 1
+1716197068.30 doublespend carrier 5
+1716197070.62 doublespend carrier 2
+1716197071.34 doublespend carrier 1
+1716197074.41 doublespend carrier 3
+1716197075.49 doublespend carrier 3
+1716197077.51 doublespend carrier 3
+1716197078.47 doublespend carrier 1
+1716197080.40 doublespend carrier 5
+1716197081.40 doublespend carrier 1
+1716197082.59 doublespend carrier 3
+1716197083.26 doublespend carrier 1
+1716197086.65 DoS start target:peer1.org4.plt.net:7451
+1716197088.70 DoS end
+1716197089.33 DoS start target:peer1.org5.plt.net:7551
+1716197094.37 DoS end
+1716197095.02 DoS start target:orderer2.concil.plt.net:7054
+1716197097.07 DoS end
+1716197099.19 doublespend carrier 5
+1716197102.51 doublespend carrier 3
+1716197103.33 doublespend carrier 1
+1716197104.26 DoS start target:peer1.org5.plt.net:7551
+1716197107.33 DoS end
+1716197108.31 doublespend carrier 4
+1716197111.35 doublespend carrier 2
+1716197113.39 DoS start target:orderer3.concil.plt.net:7057
+1716197115.43 DoS end
+1716197116.00 doublespend carrier 5
+1716197116.57 doublespend carrier 1
+1716197117.59 doublespend carrier 5
+1716197118.53 DoS start target:orderer2.concil.plt.net:7054
+1716197122.59 DoS end
+1716197123.41 doublespend carrier 5
+1716197125.18 DoS start target:orderer5.concil.plt.net:7063
+1716197129.23 DoS end
+1716197129.72 doublespend carrier 5
+1716197131.58 doublespend carrier 2
+1716197132.22 doublespend carrier 5
+1716197134.56 DoS start target:peer1.org4.plt.net:7451
+1716197137.60 DoS end
+1716197138.02 doublespend carrier 2
+1716197138.56 DoS start target:orderer3.concil.plt.net:7057
+1716197141.60 DoS end
+1716197142.47 doublespend carrier 3
+1716197144.18 doublespend carrier 4
+1716197145.39 doublespend carrier 2
+1716197146.51 DoS start target:orderer2.concil.plt.net:7054
+1716197151.56 DoS end
+1716197151.88 doublespend carrier 3
+1716197152.51 DoS start target:peer1.org4.plt.net:7451
+1716197157.55 DoS end
+1716197157.91 doublespend carrier 1
+1716197158.40 doublespend carrier 2
+1716197160.35 doublespend carrier 5
+1716197161.49 doublespend carrier 2
+1716197162.46 doublespend carrier 4
+1716197163.62 doublespend carrier 2
+1716197165.43 doublespend carrier 2
+1716197169.49 doublespend carrier 3
+1716197170.60 doublespend carrier 2
+1716197171.43 doublespend carrier 1
+1716197172.20 doublespend carrier 5
+1716197173.40 DoS start target:orderer2.concil.plt.net:7054
+1716197177.45 DoS end
+1716197179.28 doublespend carrier 4
+1716197181.30 doublespend carrier 1
+1716197183.39 doublespend carrier 4
+1716197184.41 doublespend carrier 4
+1716197185.53 DoS start target:orderer5.concil.plt.net:7063
+1716197187.58 DoS end
+1716197187.99 DoS start target:peer1.org1.plt.net:7151
+1716197193.05 DoS end
+1716197194.20 doublespend carrier 5
+1716197195.52 doublespend carrier 5
+1716197197.24 doublespend carrier 3
+1716197200.41 doublespend carrier 2
+1716197201.23 doublespend carrier 2
+1716197205.19 doublespend carrier 3
+1716197207.57 doublespend carrier 2
+1716197211.29 doublespend carrier 5
+1716197215.65 doublespend carrier 4
+1716197218.67 doublespend carrier 3
+1716197225.33 doublespend carrier 1
+1716197227.62 doublespend carrier 3
+1716197229.40 doublespend carrier 2
+1716197231.29 doublespend carrier 3
+1716197232.48 DoS start target:peer1.org5.plt.net:7551
+1716197234.53 DoS end
+1716197235.49 doublespend carrier 1
+1716197236.57 doublespend carrier 1
+1716197238.65 doublespend carrier 3
+1716197243.34 doublespend carrier 5
+1716197245.19 doublespend carrier 5
+1716197246.34 DoS start target:orderer3.concil.plt.net:7057
+1716197250.39 DoS end
+1716197250.67 doublespend carrier 2
+1716197251.28 doublespend carrier 2
+1716197253.36 doublespend carrier 3
+1716197254.29 doublespend carrier 1
+1716197256.43 doublespend carrier 5
+1716197260.52 doublespend carrier 4
+1716197262.53 doublespend carrier 5
+1716197264.49 doublespend carrier 4
+1716197265.67 doublespend carrier 2
+1716197274.21 doublespend carrier 3
+1716197278.42 DoS start target:orderer4.concil.plt.net:7060
+1716197280.47 DoS end
+1716197280.84 doublespend carrier 2
+1716197283.41 DoS start target:orderer2.concil.plt.net:7054
+1716197287.46 DoS end
+1716197290.50 DoS start target:peer1.org5.plt.net:7551
+1716197293.55 DoS end
+1716197294.02 doublespend carrier 3
+1716197294.40 DoS start target:peer1.org1.plt.net:7151
+1716197297.46 DoS end
+1716197298.13 DoS start target:orderer4.concil.plt.net:7060
+1716197302.18 DoS end
+1716197304.27 doublespend carrier 4
+1716197305.62 doublespend carrier 1
+1716197306.39 doublespend carrier 5
+1716197307.35 doublespend carrier 1
+1716197308.19 DoS start target:orderer3.concil.plt.net:7057
+1716197313.23 DoS end
+1716197315.55 doublespend carrier 5
+1716197319.52 DoS start target:orderer1.concil.plt.net:7051
+1716197324.59 DoS end
+1716197326.36 doublespend carrier 5
+1716197328.67 DoS start target:orderer2.concil.plt.net:7054
+1716197331.71 DoS end
+1716197332.85 DoS start target:peer1.org3.plt.net:7351
+1716197335.89 DoS end
+1716197336.58 doublespend carrier 2
+1716197336.92 doublespend carrier 5
+1716197338.39 doublespend carrier 2
+1716197341.38 DoS start target:peer1.org5.plt.net:7551
+1716197344.42 DoS end
+1716197344.89 doublespend carrier 2
+1716197345.62 doublespend carrier 3
+1716197346.49 doublespend carrier 2
+1716197347.41 doublespend carrier 5
+1716197348.34 doublespend carrier 2
+1716197349.52 DoS start target:peer1.org1.plt.net:7151
+1716197353.57 DoS end
+1716197354.69 doublespend carrier 1
+1716197355.21 doublespend carrier 3
+1716197356.63 doublespend carrier 3
+1716197359.34 doublespend carrier 5
+1716197360.35 DoS start target:orderer4.concil.plt.net:7060
+1716197362.39 DoS end
+1716197363.61 DoS start target:peer1.org3.plt.net:7351
+1716197365.65 DoS end
+1716197367.58 doublespend carrier 4
+1716197369.22 doublespend carrier 2
+1716197370.45 doublespend carrier 1
+1716197371.44 doublespend carrier 3
+1716197372.58 doublespend carrier 5
+1716197379.31 doublespend carrier 4
+1716197380.30 doublespend carrier 2
+1716197383.60 doublespend carrier 5
+1716197384.48 doublespend carrier 5
+1716197386.51 doublespend carrier 2
+1716197387.33 doublespend carrier 5
+1716197391.61 doublespend carrier 5
+1716197395.21 doublespend carrier 5
+1716197401.46 doublespend carrier 1
+1716197406.24 doublespend carrier 3
+1716197409.62 doublespend carrier 1
+1716197410.57 doublespend carrier 4
+1716197411.41 DoS start target:orderer4.concil.plt.net:7060
+1716197414.46 DoS end
+1716197415.56 doublespend carrier 4
+1716197418.41 DoS start target:peer1.org4.plt.net:7451
+1716197420.46 DoS end
+1716197421.47 doublespend carrier 3
+1716197422.18 doublespend carrier 4
+1716197423.31 doublespend carrier 4
+1716197424.20 doublespend carrier 4
+1716197429.58 doublespend carrier 1
+1716197431.59 doublespend carrier 4
+1716197433.47 doublespend carrier 5
+1716197434.59 DoS start target:peer1.org4.plt.net:7451
+1716197439.63 DoS end
+1716197439.92 doublespend carrier 3
+1716197442.32 doublespend carrier 3
+1716197443.27 DoS start target:peer1.org2.plt.net:7251
+1716197445.34 DoS end
+1716197445.76 doublespend carrier 1
+1716197448.57 doublespend carrier 2
+1716197449.31 doublespend carrier 2
+1716197450.64 DoS start target:orderer2.concil.plt.net:7054
+1716197454.69 DoS end
+1716197455.77 DoS start target:orderer2.concil.plt.net:7054
+1716197460.81 DoS end
+1716197461.03 doublespend carrier 5
+1716197461.67 doublespend carrier 3
+1716197464.43 doublespend carrier 5
+1716197466.18 doublespend carrier 5
+1716197468.37 doublespend carrier 3
+1716197469.24 doublespend carrier 3
+1716197470.49 doublespend carrier 2
+1716197473.56 doublespend carrier 3
+1716197474.37 doublespend carrier 1
+1716197478.48 doublespend carrier 5
+1716197481.42 doublespend carrier 3
+1716197482.62 doublespend carrier 3
+1716197486.32 doublespend carrier 4
+1716197490.23 doublespend carrier 1
+1716197492.47 DoS start target:peer1.org3.plt.net:7351
+1716197495.53 DoS end
+1716197496.42 DoS start target:orderer3.concil.plt.net:7057
+1716197500.49 DoS end
+1716197502.30 doublespend carrier 1
+1716197504.36 doublespend carrier 1
+1716197508.65 DoS start target:orderer1.concil.plt.net:7051
+1716197512.72 DoS end
+1716197513.87 doublespend carrier 1
+1716197516.39 doublespend carrier 4
+1716197518.40 doublespend carrier 3
+1716197522.62 doublespend carrier 3
+1716197523.61 doublespend carrier 4
+1716197526.59 doublespend carrier 4
+1716197527.61 doublespend carrier 5
+1716197528.60 doublespend carrier 3
+1716197530.42 DoS start target:peer1.org5.plt.net:7551
+1716197535.48 DoS end
+1716197537.48 doublespend carrier 3
+1716197538.51 doublespend carrier 4
+1716197541.28 doublespend carrier 2
+1716197542.22 doublespend carrier 2
+1716197543.54 doublespend carrier 4
+1716197544.19 doublespend carrier 1
+1716197545.55 doublespend carrier 2
+1716197546.46 doublespend carrier 3
+1716197548.19 doublespend carrier 5
+1716197549.45 DoS start target:orderer2.concil.plt.net:7054
+1716197554.50 DoS end
+1716197555.38 doublespend carrier 5
+1716197560.66 doublespend carrier 1
+1716197562.21 DoS start target:orderer1.concil.plt.net:7051
+1716197564.27 DoS end
+1716197564.64 doublespend carrier 1
+1716197565.48 doublespend carrier 4
+1716197566.31 doublespend carrier 1
+1716197570.36 doublespend carrier 2
+1716197571.32 doublespend carrier 1
+1716197574.46 doublespend carrier 4
+1716197576.26 doublespend carrier 3
+1716197577.65 doublespend carrier 2
+1716197578.49 doublespend carrier 5
+1716197579.27 DoS start target:peer1.org5.plt.net:7551
+1716197584.32 DoS end
+1716197587.42 doublespend carrier 2
+1716197588.47 doublespend carrier 5
+1716197590.60 DoS start target:peer1.org4.plt.net:7451
+1716197592.65 DoS end
+1716197594.33 doublespend carrier 2
+1716197596.66 DoS start target:orderer3.concil.plt.net:7057
+1716197598.73 DoS end
+1716197599.85 doublespend carrier 1
+1716197602.45 doublespend carrier 1
+1716197603.44 doublespend carrier 3
+1716197604.35 doublespend carrier 3
+1716197605.56 doublespend carrier 4
+1716197608.62 doublespend carrier 1
+1716197611.47 doublespend carrier 2
+1716197612.25 doublespend carrier 1
+1716197617.55 doublespend carrier 4
+1716197620.36 doublespend carrier 5
+1716197621.34 doublespend carrier 3
+1716197624.67 doublespend carrier 1
+1716197625.52 doublespend carrier 4
+1716197627.52 doublespend carrier 5
+1716197630.62 doublespend carrier 2
+1716197633.40 doublespend carrier 4
+1716197640.38 DoS start target:orderer2.concil.plt.net:7054
+1716197643.43 DoS end
+1716197644.36 doublespend carrier 2
+1716197645.53 DoS start target:orderer5.concil.plt.net:7063
+1716197647.58 DoS end
+1716197648.09 doublespend carrier 2
+1716197648.60 doublespend carrier 4
+1716197649.18 doublespend carrier 3
+1716197650.31 doublespend carrier 1
+1716197653.29 doublespend carrier 4
+1716197654.21 doublespend carrier 3
+1716197657.20 doublespend carrier 3
+1716197660.32 doublespend carrier 2
+1716197661.33 doublespend carrier 5
+1716197662.58 doublespend carrier 2
+1716197663.38 DoS start target:peer1.org4.plt.net:7451
+1716197665.44 DoS end
+1716197665.75 doublespend carrier 2
+1716197669.47 doublespend carrier 4
+1716197672.40 DoS start target:orderer1.concil.plt.net:7051
+1716197677.45 DoS end
+1716197677.78 doublespend carrier 3
+1716197681.26 doublespend carrier 5
+1716197682.39 DoS start target:peer1.org1.plt.net:7151
+1716197687.44 DoS end
+1716197688.04 doublespend carrier 2
+1716197688.65 doublespend carrier 1
+1716197691.29 doublespend carrier 3
+1716197696.54 doublespend carrier 2
+1716197699.53 doublespend carrier 3
+1716197700.59 doublespend carrier 3
+1716197705.45 DoS start target:orderer5.concil.plt.net:7063
+1716197710.51 DoS end
+1716197711.51 doublespend carrier 5
+1716197713.62 DoS start target:orderer4.concil.plt.net:7060
+1716197718.66 DoS end
+1716197719.06 doublespend carrier 1
+1716197721.32 DoS start target:peer1.org2.plt.net:7251
+1716197723.38 DoS end
+1716197724.57 doublespend carrier 3
+1716197725.38 doublespend carrier 5
+1716197728.42 doublespend carrier 2
+1716197729.25 doublespend carrier 5
+1716197730.18 doublespend carrier 4
+1716197731.64 doublespend carrier 5
+1716197735.61 doublespend carrier 2
+1716197738.62 DoS start target:peer1.org4.plt.net:7451
+1716197743.67 DoS end
+1716197744.36 DoS start target:orderer1.concil.plt.net:7051
+1716197746.40 DoS end
+1716197747.42 DoS start target:orderer3.concil.plt.net:7057
+1716197751.46 DoS end
+1716197751.66 doublespend carrier 2
+1716197752.28 doublespend carrier 4
+1716197753.52 doublespend carrier 1
+1716197754.26 doublespend carrier 3
+1716197755.62 doublespend carrier 4
+1716197756.41 doublespend carrier 5
+1716197758.46 doublespend carrier 1
+1716197759.33 doublespend carrier 5
+1716197764.47 doublespend carrier 5
+1716197766.66 doublespend carrier 3
+1716197768.23 DoS start target:peer1.org3.plt.net:7351
+1716197772.27 DoS end
+1716197774.25 doublespend carrier 2
+1716197776.29 doublespend carrier 3
+1716197779.50 DoS start target:peer1.org3.plt.net:7351
+1716197782.55 DoS end
+1716197782.98 doublespend carrier 2
+1716197783.31 DoS start target:peer1.org2.plt.net:7251
+1716197787.38 DoS end
+1716197788.40 doublespend carrier 5
+1716197792.42 doublespend carrier 5
+1716197793.66 doublespend carrier 2
+1716197795.25 doublespend carrier 4
+1716197796.58 doublespend carrier 1
+1716197799.34 doublespend carrier 2
+1716197800.63 DoS start target:peer1.org5.plt.net:7551
+1716197805.69 DoS end
+1716197806.89 DoS start target:orderer4.concil.plt.net:7060
+1716197808.97 DoS end
+1716197815.52 doublespend carrier 4
+1716197816.66 doublespend carrier 3
+1716197817.29 doublespend carrier 2
+1716197819.61 doublespend carrier 5
+1716197820.32 doublespend carrier 4
+1716197827.19 doublespend carrier 4
+1716197828.30 doublespend carrier 1
+1716197831.36 doublespend carrier 5
+1716197832.30 doublespend carrier 4
+1716197833.34 DoS start target:orderer1.concil.plt.net:7051
+1716197836.38 DoS end
+1716197838.38 DoS start target:peer1.org2.plt.net:7251
+1716197841.44 DoS end
+1716197842.23 doublespend carrier 1
+1716197843.47 doublespend carrier 5
+1716197844.40 doublespend carrier 3
+1716197846.35 doublespend carrier 4
+1716197848.63 doublespend carrier 1
+1716197849.51 DoS start target:peer1.org5.plt.net:7551
+1716197851.57 DoS end
+1716197851.94 DoS start target:orderer5.concil.plt.net:7063
+1716197856.00 DoS end
+1716197857.49 DoS start target:orderer5.concil.plt.net:7063
+1716197860.54 DoS end
+1716197860.83 doublespend carrier 2
+1716197866.21 doublespend carrier 1
+1716197867.26 doublespend carrier 2
+1716197868.39 doublespend carrier 4
+1716197871.33 doublespend carrier 5
+1716197872.56 doublespend carrier 3
+1716197874.41 doublespend carrier 1
+1716197878.26 DoS start target:orderer1.concil.plt.net:7051
+1716197881.30 DoS end
+1716197881.89 DoS start target:orderer3.concil.plt.net:7057
+1716197883.93 DoS end
+1716197884.59 DoS start target:peer1.org3.plt.net:7351
+1716197889.63 DoS end
+1716197890.46 doublespend carrier 4
+1716197891.44 doublespend carrier 1
+1716197894.57 doublespend carrier 1
+1716197896.66 doublespend carrier 4
+1716197903.62 DoS start target:orderer2.concil.plt.net:7054
+1716197905.68 DoS end
+1716197906.74 doublespend carrier 5
+1716197907.49 doublespend carrier 5
+1716197908.67 doublespend carrier 3
+1716197909.57 doublespend carrier 3
+1716197910.20 doublespend carrier 1
+1716197911.37 doublespend carrier 3
+1716197912.32 doublespend carrier 2
+1716197917.62 doublespend carrier 5
+1716197918.36 doublespend carrier 5
+1716197921.40 doublespend carrier 2
+1716197922.30 doublespend carrier 3
+1716197924.64 doublespend carrier 4
+1716197925.21 doublespend carrier 1
+1716197927.20 doublespend carrier 2
+1716197930.62 doublespend carrier 4
+1716197933.51 doublespend carrier 2
+1716197934.23 doublespend carrier 4
+1716197937.20 doublespend carrier 3
+1716197938.32 doublespend carrier 4
+1716197939.27 doublespend carrier 5
+1716197940.41 doublespend carrier 1
+1716197941.40 doublespend carrier 5
+1716197942.33 doublespend carrier 5
+1716197943.36 doublespend carrier 5
+1716197944.62 doublespend carrier 3
+1716197947.46 doublespend carrier 5
+1716197951.29 doublespend carrier 1
+1716197952.62 doublespend carrier 1
+1716197955.24 doublespend carrier 3
+1716197956.49 doublespend carrier 3
+1716197957.26 doublespend carrier 3
+1716197962.24 doublespend carrier 5
+1716197964.39 doublespend carrier 2
+1716197967.37 doublespend carrier 4
+1716197968.54 doublespend carrier 4
+1716197970.29 doublespend carrier 1
+1716197973.17 doublespend carrier 1
+1716197975.28 doublespend carrier 3
+1716197977.51 doublespend carrier 1
+1716197979.59 doublespend carrier 2
+1716197980.52 doublespend carrier 2
+1716197983.63 doublespend carrier 5
+1716197986.55 doublespend carrier 4
+1716197988.40 doublespend carrier 4
+1716197989.18 doublespend carrier 2
+1716197990.58 DoS start target:orderer3.concil.plt.net:7057
+1716197993.63 DoS end
+1716197994.21 doublespend carrier 3
+1716198001.56 doublespend carrier 2
+1716198004.58 doublespend carrier 3
+1716198011.54 doublespend carrier 4
+1716198012.36 doublespend carrier 3
+1716198013.29 doublespend carrier 4
+1716198015.61 doublespend carrier 3
+1716198016.27 doublespend carrier 1
+1716198018.63 doublespend carrier 2
+1716198019.22 doublespend carrier 5
+1716198025.34 doublespend carrier 3
+1716198026.61 doublespend carrier 4
+1716198027.29 DoS start target:orderer5.concil.plt.net:7063
+1716198032.34 DoS end
+1716198032.95 doublespend carrier 2
+1716198036.50 doublespend carrier 5
+1716198037.51 doublespend carrier 2
+1716198039.40 DoS start target:orderer1.concil.plt.net:7051
+1716198042.44 DoS end
+1716198043.67 doublespend carrier 4
+1716198044.57 doublespend carrier 1
+1716198046.59 DoS start target:peer1.org5.plt.net:7551
+1716198051.64 DoS end
+1716198053.26 doublespend carrier 5
+1716198054.38 doublespend carrier 3
+1716198057.25 doublespend carrier 4
+1716198058.47 doublespend carrier 5
+1716198060.53 doublespend carrier 1
+1716198061.38 doublespend carrier 2
+1716198066.25 doublespend carrier 3
+1716198067.24 doublespend carrier 3
+1716198068.30 doublespend carrier 2
+1716198076.67 doublespend carrier 2
+1716198077.61 doublespend carrier 5
+1716198081.62 doublespend carrier 5
+1716198083.38 doublespend carrier 1
+1716198085.47 doublespend carrier 4
+1716198086.61 doublespend carrier 3
+1716198087.66 doublespend carrier 1
+1716198090.18 doublespend carrier 3
+1716198091.53 doublespend carrier 4
+1716198092.67 DoS start target:peer1.org3.plt.net:7351
+1716198096.74 DoS end
+1716198097.09 doublespend carrier 4
+1716198097.78 DoS start target:peer1.org2.plt.net:7251
+1716198099.84 DoS end
+1716198100.19 doublespend carrier 4
+1716198104.48 doublespend carrier 3
+1716198108.35 doublespend carrier 1
+1716198110.56 doublespend carrier 4
+1716198111.36 DoS start target:orderer1.concil.plt.net:7051
+1716198115.42 DoS end
+1716198115.74 doublespend carrier 2
+1716198116.18 doublespend carrier 2
+1716198117.47 DoS start target:orderer2.concil.plt.net:7054
+1716198120.53 DoS end
+1716198121.62 doublespend carrier 1
+1716198122.20 doublespend carrier 3
+1716198124.20 doublespend carrier 2
+1716198125.33 doublespend carrier 3
+1716198127.65 doublespend carrier 3
+1716198128.25 DoS start target:peer1.org5.plt.net:7551
+1716198130.30 DoS end
+1716198135.46 doublespend carrier 2
+1716198136.59 doublespend carrier 3
+1716198137.44 doublespend carrier 2
+1716198142.59 doublespend carrier 2
+1716198145.26 doublespend carrier 4
+1716198146.61 doublespend carrier 3
+1716198149.21 doublespend carrier 5
+1716198150.67 doublespend carrier 2
+1716198152.48 doublespend carrier 3
+1716198153.40 doublespend carrier 5
+1716198155.38 DoS start target:peer1.org5.plt.net:7551
+1716198159.44 DoS end
+1716198161.50 doublespend carrier 3
+1716198162.39 doublespend carrier 2
+1716198165.44 doublespend carrier 5
+1716198167.17 doublespend carrier 4
+1716198168.48 DoS start target:orderer5.concil.plt.net:7063
+1716198173.53 DoS end
+1716198175.49 doublespend carrier 2
+1716198178.35 doublespend carrier 3
+1716198179.36 DoS start target:orderer5.concil.plt.net:7063
+1716198184.40 DoS end
+1716198187.35 DoS start target:orderer1.concil.plt.net:7051
+1716198189.39 DoS end
+1716198190.20 doublespend carrier 4
+1716198192.66 doublespend carrier 4
+1716198194.63 doublespend carrier 2
+1716198196.18 doublespend carrier 1
+1716198197.63 doublespend carrier 4
+1716198198.21 doublespend carrier 2
+1716198199.64 doublespend carrier 1
+1716198200.62 doublespend carrier 2
+1716198201.27 doublespend carrier 2
+1716198205.63 doublespend carrier 5
+1716198210.60 DoS start target:orderer5.concil.plt.net:7063
+1716198214.64 DoS end
+1716198216.59 doublespend carrier 4
+1716198217.37 doublespend carrier 5
+1716198219.28 doublespend carrier 5
+1716198220.50 doublespend carrier 1
+1716198222.65 doublespend carrier 1
+1716198224.67 doublespend carrier 4
+1716198225.40 doublespend carrier 4
+1716198226.24 doublespend carrier 2
+1716198228.25 doublespend carrier 4
+1716198229.57 doublespend carrier 3
+1716198230.60 doublespend carrier 1
+1716198232.34 doublespend carrier 4
+1716198238.43 doublespend carrier 3
+1716198239.54 doublespend carrier 5
+1716198240.56 doublespend carrier 2
+1716198241.28 DoS start target:orderer2.concil.plt.net:7054
+1716198243.34 DoS end
+1716198243.57 DoS start target:orderer2.concil.plt.net:7054
+1716198247.62 DoS end
+1716198250.18 doublespend carrier 3
+1716198255.63 doublespend carrier 2
+1716198256.67 doublespend carrier 2
+1716198261.25 DoS start target:orderer5.concil.plt.net:7063
+1716198265.30 DoS end
+1716198265.84 doublespend carrier 4
+1716198266.32 doublespend carrier 1
+1716198268.59 doublespend carrier 5
+1716198272.38 DoS start target:peer1.org3.plt.net:7351
+1716198276.43 DoS end
+1716198276.98 DoS start target:peer1.org3.plt.net:7351
+1716198281.04 DoS end
+1716198283.55 doublespend carrier 4
+1716198284.32 doublespend carrier 4
+1716198287.18 doublespend carrier 2
+1716198288.25 DoS start target:orderer2.concil.plt.net:7054
+1716198293.31 DoS end
+1716198294.55 doublespend carrier 3
+1716198297.54 doublespend carrier 3
+1716198299.23 DoS start target:orderer2.concil.plt.net:7054
+1716198303.28 DoS end
+1716198303.89 doublespend carrier 2
+1716198305.21 doublespend carrier 1
+1716198306.40 doublespend carrier 5
+1716198307.59 doublespend carrier 3
+1716198309.36 doublespend carrier 4
+1716198310.59 doublespend carrier 4
+1716198313.48 doublespend carrier 5
+1716198314.54 doublespend carrier 2
+1716198316.33 doublespend carrier 5
+1716198317.32 doublespend carrier 1
+1716198319.59 doublespend carrier 3
+1716198320.27 doublespend carrier 4
+1716198322.54 doublespend carrier 1
+1716198325.55 doublespend carrier 3
+1716198326.23 doublespend carrier 4
+1716198329.46 doublespend carrier 2
+1716198330.31 doublespend carrier 3
+1716198334.27 doublespend carrier 5
+1716198335.20 doublespend carrier 2
+1716198336.49 doublespend carrier 2
+1716198337.43 DoS start target:orderer5.concil.plt.net:7063
+1716198341.48 DoS end
+1716198342.29 doublespend carrier 3
+1716198343.44 DoS start target:orderer4.concil.plt.net:7060
+1716198346.49 DoS end
+1716198347.13 DoS start target:orderer1.concil.plt.net:7051
+1716198352.18 DoS end
+1716198353.54 doublespend carrier 3
+1716198356.39 doublespend carrier 2
+1716198357.39 doublespend carrier 1
+1716198358.35 doublespend carrier 2
+1716198359.48 doublespend carrier 3
+1716198360.29 doublespend carrier 2
+1716198366.58 doublespend carrier 5
+1716198368.60 DoS start target:peer1.org3.plt.net:7351
+1716198373.65 DoS end
+1716198374.46 DoS start target:peer1.org3.plt.net:7351
+1716198377.52 DoS end
+1716198381.37 doublespend carrier 4
+1716198382.26 doublespend carrier 1
+1716198383.40 doublespend carrier 2
+1716198384.61 doublespend carrier 2
+1716198387.62 doublespend carrier 1
+1716198389.62 doublespend carrier 4
+1716198391.41 doublespend carrier 1
+1716198393.45 doublespend carrier 5
+1716198395.54 doublespend carrier 3
+1716198397.25 doublespend carrier 2
+1716198398.18 doublespend carrier 4
+1716198401.51 doublespend carrier 4
+1716198404.48 doublespend carrier 3
+1716198407.51 DoS start target:orderer2.concil.plt.net:7054
+1716198412.58 DoS end
+1716198414.33 doublespend carrier 3
+1716198415.40 doublespend carrier 2
+1716198416.45 doublespend carrier 4
+1716198417.30 doublespend carrier 3
+1716198419.34 doublespend carrier 5
+1716198421.36 DoS start target:orderer2.concil.plt.net:7054
+1716198425.40 DoS end
+1716198425.93 DoS start target:orderer5.concil.plt.net:7063
+1716198427.98 DoS end
+1716198428.25 DoS start target:peer1.org5.plt.net:7551
+1716198430.31 DoS end
+1716198431.32 DoS start target:orderer2.concil.plt.net:7054
+1716198436.36 DoS end
+1716198437.58 doublespend carrier 5
+1716198441.55 doublespend carrier 4
+1716198442.28 doublespend carrier 2
+1716198443.49 doublespend carrier 4
+1716198444.64 doublespend carrier 5
+1716198446.42 doublespend carrier 2
+1716198448.24 doublespend carrier 3
+1716198450.53 doublespend carrier 3
+1716198451.65 doublespend carrier 4
+1716198452.59 doublespend carrier 4
+1716198453.44 doublespend carrier 5
+1716198454.53 doublespend carrier 4
+1716198456.61 DoS start target:orderer1.concil.plt.net:7051
+1716198458.67 DoS end
+1716198460.65 doublespend carrier 1
+1716198461.61 doublespend carrier 3
+1716198465.36 doublespend carrier 3
+1716198466.66 doublespend carrier 3
+1716198469.63 doublespend carrier 4
+1716198470.33 doublespend carrier 2
+1716198472.20 doublespend carrier 4
+1716198473.48 doublespend carrier 4
+1716198474.23 doublespend carrier 5
+1716198479.49 doublespend carrier 1
+1716198480.45 doublespend carrier 5
+1716198485.43 doublespend carrier 2
+1716198486.35 doublespend carrier 4
+1716198487.35 doublespend carrier 1
+1716198488.61 doublespend carrier 3
+1716198489.23 doublespend carrier 1
+1716198490.43 doublespend carrier 1
+1716198491.18 doublespend carrier 4
+1716198496.50 doublespend carrier 3
+1716198498.53 DoS start target:orderer5.concil.plt.net:7063
+1716198503.57 DoS end
+1716198505.36 doublespend carrier 1
+1716198507.63 DoS start target:orderer5.concil.plt.net:7063
+1716198509.69 DoS end
+1716198510.54 doublespend carrier 2
+1716198515.51 doublespend carrier 2
+1716198516.42 DoS start target:orderer3.concil.plt.net:7057
+1716198518.48 DoS end
+1716198520.63 doublespend carrier 3
+1716198521.32 doublespend carrier 5
+1716198522.26 doublespend carrier 4
+1716198525.55 doublespend carrier 3
+1716198526.32 doublespend carrier 5
+1716198528.57 doublespend carrier 4
+1716198530.44 doublespend carrier 2
+1716198531.50 doublespend carrier 5
+1716198533.25 DoS start target:orderer4.concil.plt.net:7060
+1716198535.30 DoS end
+1716198535.72 doublespend carrier 1
+1716198536.51 doublespend carrier 2
+1716198537.42 DoS start target:peer1.org4.plt.net:7451
+1716198542.47 DoS end
+1716198542.77 doublespend carrier 5
+1716198543.62 DoS start target:orderer5.concil.plt.net:7063
+1716198547.67 DoS end
+1716198548.72 doublespend carrier 5
+1716198550.31 doublespend carrier 3
+1716198552.38 doublespend carrier 2
+1716198554.38 DoS start target:orderer5.concil.plt.net:7063
+1716198557.43 DoS end
+1716198557.92 doublespend carrier 3
+1716198559.19 doublespend carrier 2
+1716198560.33 doublespend carrier 2
+1716198562.37 doublespend carrier 3
+1716198563.50 doublespend carrier 1
+1716198565.56 doublespend carrier 5
+1716198566.66 DoS start target:orderer1.concil.plt.net:7051
+1716198571.72 DoS end
+1716198572.72 doublespend carrier 3
+1716198574.55 doublespend carrier 2
+1716198575.49 DoS start target:peer1.org2.plt.net:7251
+1716198580.53 DoS end
+1716198580.81 doublespend carrier 5
+1716198581.22 doublespend carrier 5
+1716198582.55 doublespend carrier 5
+1716198583.63 doublespend carrier 2
+1716198584.53 DoS start target:peer1.org4.plt.net:7451
+1716198588.58 DoS end
+1716198589.40 doublespend carrier 1
+1716198590.66 doublespend carrier 1
+1716198591.54 DoS start target:orderer4.concil.plt.net:7060
+1716198593.60 DoS end
+1716198595.29 doublespend carrier 3
+1716198598.55 doublespend carrier 5
+1716198599.38 doublespend carrier 5
+1716198601.46 DoS start target:peer1.org3.plt.net:7351
+1716198604.50 DoS end
+1716198605.55 doublespend carrier 3
+1716198606.52 doublespend carrier 3
+1716198608.20 doublespend carrier 5
+1716198611.33 doublespend carrier 1
+1716198612.62 doublespend carrier 3
+1716198614.63 DoS start target:orderer3.concil.plt.net:7057
+1716198618.69 DoS end
+1716198622.52 doublespend carrier 2
+1716198623.40 doublespend carrier 2
+1716198624.54 doublespend carrier 3
+1716198625.48 doublespend carrier 3
+1716198628.52 doublespend carrier 2
+1716198629.28 doublespend carrier 1
+1716198630.56 doublespend carrier 4
+1716198632.35 doublespend carrier 2
+1716198633.33 doublespend carrier 3
+1716198636.23 doublespend carrier 3
+1716198637.58 doublespend carrier 2
+1716198638.49 doublespend carrier 3
+1716198643.38 doublespend carrier 4
+1716198648.40 doublespend carrier 1
+1716198651.56 doublespend carrier 4
+1716198653.43 DoS start target:peer1.org2.plt.net:7251
+1716198655.49 DoS end
+1716198655.92 doublespend carrier 5
+1716198658.30 doublespend carrier 3
+1716198659.18 doublespend carrier 2
+1716198660.18 doublespend carrier 3
+1716198661.46 doublespend carrier 2
+1716198665.18 doublespend carrier 3
+1716198668.27 doublespend carrier 3
+1716198669.57 DoS start target:peer1.org1.plt.net:7151
+1716198674.63 DoS end
+1716198674.97 DoS start target:orderer2.concil.plt.net:7054
+1716198677.01 DoS end
+1716198682.99 All end
